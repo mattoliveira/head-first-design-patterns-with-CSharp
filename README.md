@@ -1,2 +1,2 @@
-# head-first-design-patterns-with-CSharp
-Examples of head first - design patterns using C#
+# Head First - Design Patterns with C#
+Examples of head first - design patterns book using C#
