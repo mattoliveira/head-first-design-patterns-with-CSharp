@@ -15,4 +15,5 @@ The Observer Pattern defines a one-to-many dependency between objects so that wh
 There are two types of examples, one with the Observer Pattern implemented with the .NET interfaces and the other with the Observer Pattern implemented with the custom implementation.
 
 [Example - WheaterStation Simple](./src/ObserverSimple/)
+
 [Example - WeatherStation With .NET Interfaces ](./src/ObserverWithDotnetInterfaces/)
