@@ -12,8 +12,8 @@ clients that use it.
 ### Observer Pattern
 The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically. The Observer allows objects to subscribe and receive updates from other objects without needing to know the internal details of those objects.
 
-There are two types of examples, one with the Observer Pattern implemented with the .NET interfaces and the other with the Observer Pattern implemented with the custom implementation.
+There are two types of examples, one with the Observer Pattern implemented with the .NET interfaces and the other with the Observer Pattern implemented with a simple implementation.
 
-[Example - WheaterStation Simple](./src/ObserverSimple/)
+[Example - WeatherStation Simple](./src/ObserverSimple/)
 
 [Example - WeatherStation With .NET Interfaces ](./src/ObserverWithDotnetInterfaces/)
