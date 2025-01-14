@@ -17,3 +17,9 @@ There are two types of examples, one with the Observer Pattern implemented with 
 [Example - WeatherStation Simple](./src/ObserverSimple/)
 
 [Example - WeatherStation With .NET Interfaces ](./src/ObserverWithDotnetInterfaces/)
+
+### Decorator
+The Decorator Pattern attaches additional responsibilities to an object dynamically.
+Decorators provide a flexible alternative to subclassing for extending functionality
+
+[Example - Starbuzz](./src/Decorator/)
