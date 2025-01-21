@@ -23,3 +23,10 @@ The Decorator Pattern attaches additional responsibilities to an object dynamica
 Decorators provide a flexible alternative to subclassing for extending functionality
 
 [Example - Starbuzz](./src/Decorator/)
+
+### Factory
+1- Simple Factory
+The Simple Factory Pattern is not a formal design pattern but a common practice. It encapsulates the creation of objects in a separate method or class, which helps to centralize the instantiation logic. This pattern allows for more flexible and maintainable code by decoupling the client code from the specific classes it needs to instantiate.
+
+[Example - PizzaStore](./src/PizzaStoreWithSimpleFactory/)
+
