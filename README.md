@@ -30,3 +30,8 @@ The Simple Factory Pattern is not a formal design pattern but a common practice.
 
 [Example - PizzaStore](./src/PizzaStoreWithSimpleFactory/)
 
+2- Factory Method
+The Factory Method Pattern defines an interface for creating an object but lets subclasses alter the type of objects that will be created. It allows a class to delegate the instantiation to subclasses.
+
+[Example - PizzaStore](./src/PizzaStoreWithFactoryMethod/)
+
